@@ -1,4 +1,4 @@
-```.json
+```javascript
 {
   testing: "test"
 }
