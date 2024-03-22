@@ -1,7 +1,5 @@
 ```javascript
-{
-  "going to fill this out later dw"
-}
+"going to fill this out later dw"
 ```
 
 <!--
