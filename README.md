@@ -1,5 +1,5 @@
-```
-{json
+```json
+{
   testing: "test"
 }
 ```
